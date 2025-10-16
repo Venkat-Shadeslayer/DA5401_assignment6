@@ -12,7 +12,7 @@ This repository contains my work for Assignment 6 of the DA5401 course.
 This project explores various strategies for **handling missing data** in the **UCI Credit Card Default dataset**, with a focus on understanding how different imputation methods impact downstream model performance. Missing data is a ubiquitous problem in real-world datasets, and the choice of imputation strategy can profoundly influence the accuracy and reliability of predictive models.
 
 ### Objective
-The objective was to evaluate and compare multiple imputation techniques — ranging from simple to model-based — and determine which method produces the most accurate imputations and the best-performing classification model for predicting credit card default.
+The objective was to evaluate and compare multiple imputation techniques ,ranging from simple to model-based , and determine which method produces the most accurate imputations and the best-performing classification model for predicting credit card default.
 
 ### Methodology Overview
 1. **Data Simulation:** Artificially introduced Missing At Random (MAR) values (8%) into two continuous features — `AGE` and `BILL_AMT1`.  
